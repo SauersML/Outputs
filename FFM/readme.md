@@ -1,6 +1,6 @@
 **Prompt information:**
 
-prompt_prefix:
+Prompt prefix:
 
     "Here are a number of characteristics that may or may not apply to you. "
     
@@ -14,7 +14,7 @@ prompt_prefix:
 
 **Model information:**
 
-models:
+Models:
 
     "gpt-4o-mini-2024-07-18",
     
@@ -23,4 +23,4 @@ models:
     "gpt-4o-2024-05-13"
     
 
-messages: {"role": "user", "content": prompt}
+Messages: {"role": "user", "content": prompt}
