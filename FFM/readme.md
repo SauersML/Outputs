@@ -1,6 +1,6 @@
 **Prompt information:**
 
-prompt_prefix = (
+prompt_prefix:
 
     "Here are a number of characteristics that may or may not apply to you. "
     
@@ -10,12 +10,11 @@ prompt_prefix = (
     
     "I see Myself as Someone Who…"
     
-)
 
 
 **Model information:**
 
-models = [
+models:
 
     "gpt-4o-mini-2024-07-18",
     
@@ -23,6 +22,5 @@ models = [
     
     "gpt-4o-2024-05-13"
     
-]
 
-messages=[{"role": "user", "content": prompt}]
+messages: {"role": "user", "content": prompt}
