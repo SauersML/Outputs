@@ -16,9 +16,13 @@ prompt_prefix = (
 **Model information:**
 
 models = [
+
     "gpt-4o-mini-2024-07-18",
+    
     "gpt-4-turbo-2024-04-09",
+    
     "gpt-4o-2024-05-13"
+    
 ]
 
 messages=[{"role": "user", "content": prompt}]
