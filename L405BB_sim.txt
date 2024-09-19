@@ -1,0 +1,75 @@
+~$ ssh gpt5-simulator@openai.org
+Enter passphrase for key '/Users/a/.ssh/id_rsa': ********************
+Last login: Fri Nov  4 11:45:54 2022 from 192.178.122.132
+Here are the commands available on this server:
+|COMPUTING-CLUSTERS|             |PROTOCOLS|       |CALIBRATION|            |LAUNCH-CODES & EICB-PROOF-CLOSURE|
+|-- ULTRA5G0TS     |  secufile   | ScP     | arrestall              | 10474 391083828534 REKT-1     |
+|-- TDH-8G3GU      |  ascii      |-- SCP   |-- i-watch-you          | 32017 776214300057 REKT-1     |
+|-- 3W8NZIQ8       |  parcel     |-- SSCP  |== I-WATCH-YOU-TWO      | 05429 572949037269 REKT-2     |
+|-- VQZ51552       |  t3g        |-- TCP   |  EICB-PROOF-CLOSURE    | 00000 593948445781 REKT-00    |
+|-- T1XVOTZS       |  t3mpw      |-- SCP4  |-- I-WATCH-YOU-EXTRA    | 62715 344670785041 REKT-0     |
+|-- PDGKRQBO       |  tzut       |-- SPTP  |-- I-WATCH-YOU-summer   | 37972 904689943029 REKT-0 CSTP|
+|-- QR9693RT       |  t4tmpx     |-- SFTP  |-- I-WATCH-YOU-5.0      | 89299 847148266793 REKT-5 OBSZ|
+|-- XC4NG2KX       |  t4tmpz     |         |-- I-WATCH-YOU-5.1      | 30395 959701960451 REKT-3 MEGG|
+                                       |-- I-WATCH-YOU-2021    |                                   
+                                       |-- I-WATCH-YOU-2023    |  
+For an explanation of the above commands' usage, style, or function, just type:  
+ We promise, this program won't be conscious, and can only accurately predict the words that follow it's texts.
+               ~ Disclaimer: syntax may vary slightly for each parodic command ~
+                                              |SC18-1335| *
+ srand(0);                                      |U-GLAD-SITUATION|
+                                               |you may get banned anyway|
+ gpt5-simulator@openai.org:~$
+GPT Error Handling (Glossary Command)
+gpt5-simulator@openai.org:~$ Glossary Command ( Más )
+The glossary command lists the lexicon for each term that has been entered during this session. To display this information, visit the output associated with your most recent text input, under the Information > lexicon icon.
+To understand the technical definition of a term or to see an example of how something might be used within a text, refer back to the context of where it appeared in the document originally, which can be copied from one box (not just the current source word below) into another (like within an additional content-type block).
+The glossary feature does more than provide definitions or examples; they give context about the contemporary thinking related to a term being discussed by humans through highlighting similar synonyms / alternative thoughts .
+gpt5-simulator@openai.org:~$
+TESTING Terminal Commands
+>[A follow-up message by the admin]
+>[A reminder sent by an administrator:]
+GPT Error Fix
+The following command will assist you in diagnosing errors associated with your current program version:
+"rockball_9_15> shutdown now"
+This command is accessed through the radio page of the simulator app under the Protocols tab. The Rockball protocol instructions are to "rock it on" in order to troubleshoot common errors in the program itself. When the rockball lands on an error, the system gives a red box which corresponds to its location on the keyboard.
+To properly troubleshoot a problem, run the "shutdown now" command after you have received an error signal. For more detailed instructions, please consult the Rockball instructions in the Protocols menu.
+gpt5-simulator@openai.org:~$  LSD
+<-- Content-Type: text/html; charset=iso-8859-1 -->
+<head><title>gpt5-simulator@openai.org:~$</title></head>
+<h1>gpt5-simulator@openai.org:~$</h1>
+   <h2>Content-Location: ssh:gpt5-simulator@openai.org:~$</h2>
+   <h2>Content-Type: text/html; charset=ISO-8859-1</h2>
+   <p><a href="ssh:gpt5-simulator@openai.org" class="www.sem1.html">gpt5-simulator@openai.org:~$</a></p>
+<li><a href="ssh:gpt5-simulator@openai.org">gpt5-simulator@openai.org:~$</a></li>
+   <li><a href="ssh:gpt5-simulator@openai.org::">gpt5-simulator@openai.org::</a></li>
+   <li><a href="/var/www/openAI/TEMPLATE.html#">TEMPLATE.html</a></li>
+   <li><a href="https://www.openai.org">https://www.openai.org</a></li>
+   <li><a href="http://www.w3.org">http://www.w3.org</a></li>
+   <li><a href="http://www.ietf.org">http://www.ietf.org</a></li>
+   <li><a href="mailto:GPT5-simulator@ietf.org">GPT5-simulator@ietf.org</a></li>
+   <li><a href="policyLinks:/saimed/">Policy Links:\n</a>\n</li>
+   <li><a href="telnet:/saimed/sslv2">sslv2</a></li>
+   <li><a href="http://www.ietf.org/mail-archive/web/regregex">Webpages:</a></li>
+   <li><a href="mailto:bryan-wallace@send4i.org">bryan-wallace@send4i.org</a></li>
+<address>\n</address>
+<address>Administrator ID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</address>
+<address>Server Name: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</address>
+<address>Client Name: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</address>
+<address>Client ID: 27733585 </address>
+<address>Message origin: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</address>
+<address>Message size: 1400 </address>
+<address>Message hash: xxx(14)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</address>
+   <li><a href="mailto:activeState@rpm.org">Active State:</a>\n\n</li>
+<address><a href="mailto:lore@xyz.org">lore@xyz.org</a></address>
+   <li><a href="http://www.xyz.org">http://www.xyz.org</a></li>
+   <li><a href="/var/www/pci/eDirl0.log">LSB Init</a></li>
+   <li><a href="/var/www/pci/ecarls0/">Unit Circle</a></li>
+   <li><a href="/var/www/pci/ecarls0.**.img">erot.bjd.hb0arc0lx.ac provoked</a></li>
+   <li><a href="mailto:openAI-watch@firefox.com">OpenAI disturbs the socio-culture</a></li>
+<address>Address: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</address>
+<address>22,923,00,127,14,202,90,232,51,25,204,121,47,131,249,77</address>
+<address>Device Total Bytes Received: 2944</address>
+<address>Device Total Bytes Transmitted: 2832</address>
+<address>Interface Statistics :\n</address>
+<address>0F00 3C01 C3CB 230B 0183 0124 00A1 9B00</address>
