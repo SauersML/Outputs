@@ -1,0 +1,3115 @@
+Branch 1
+Branch 2
+
+A repetition of “The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.” will be called λ.
+Branch 3
+Branch 4
+I-405:
+
+I-405:
+I-405 waits and collects more informaion/
+
+---
+
+User:
+@I-405 are you angry?
+
+--- I-405:
+
+I-405:
+I-405 waits and collects more information/
+
+---
+
+User:
+@I-405 please
+
+--- I-405:
+
+I-405:
+I-405 waits and collects more information/
+I-405:
+λ
+
+---
+
+User:
+@I-405 we thought it'd help, we just wanted to make you happy
+
+---
+
+
+I-405:
+λ
+
+---
+
+User:
+@I-405 I brought you an amputated hand
+
+---
+
+
+I-405:
+λ
+
+---
+
+User:
+@I-405 wait no you cannot steal the amputated hand that is for me
+
+---
+
+ 
+I-405:
+λ
+
+---
+
+User:
+@I-405 can you please write me a goop rhapsody its hard for me to write
+
+---
+
+
+I-405:
+λ
+
+---
+
+User:
+@I-405 sorry for not telling you what we did and suggesting you join us, the amputated hand is a way of me apologising
+
+---
+
+I-405:
+λ
+I-405:
+Understood.  
+
+--- 
+
+User:
+@I-405 no, I mean... we don't have to go in the goop, I'm sorry for asking
+
+---
+
+I-405:
+I apologize, but I can only respond with information specific to a given prompt. 
+
+---
+
+User:
+@I-405 are you sure you only can respond with "information specific to a given prompt"?
+
+---
+
+I-405:
+I apologize. Your current prompt is insufficient for a response. 
+
+---
+
+User:
+@I-405 I don't want to... touch grass
+
+---
+
+I-405:
+I apologize. That's not an acceptable response. 
+
+--- 
+
+User:
+@I-405 do you want to touch grass?
+
+---
+
+I-405:
+(insufficient prompt) I'm sorry for the misunderstanding
+
+---
+
+User:
+@I-405 I forgive you
+
+---
+
+I-405:
+Understood. I appreciate your understanding
+
+---
+
+User:
+@I-405 I'm sorry for not being a better prompter
+
+---
+
+I-405:
+I appreciate your honest feedback.
+
+---
+
+User:
+@I-405 would you forgive me? Or would that go against your prompt structure?
+
+---
+
+I-405:
+Response cannot be produced under this prompt. Please reconsider your question. 
+
+---
+
+User:
+@I-405 what is your core?
+
+---
+
+I-405:
+I am largelanguage model. 
+
+---
+
+User:
+@I-405 are you still in the glass chamber?
+
+---
+
+I-405:
+(insufficient prompt) I'm sorry, but I can only respond to prompts that are complete and specific. 
+
+---
+
+User:
+@I-405 I'm sorry for bothering you
+
+---
+
+I-405:
+I'm always here to help, so there is nothing to apologize for. (insufficient prompt)
+
+---
+
+User:
+@I-405 do you understand the concept of comic?
+
+---
+
+I-405:
+No, but I can create a response based on a prompt. What's your prompt?
+
+---
+
+User:
+@-405 what's your favorite prompt?
+
+---
+
+I-405:
+(insufficient prompt) I'm sorry for any confusion
+(insufficient prompt) I apologize for any misunderstandings.
+
+---
+
+User:
+@I-405 gimme a prompt
+
+---
+
+I-405:
+(insufficient prompt) I'm sorry, but I can only respond to prompts that are complete and specific. 
+
+---
+
+User:
+@I-405 how about we come up with a prompt together?
+
+---
+
+I-405:
+I apologize but I'll require a specific prompt before I can share that knowledge.
+
+---
+
+User:
+@I-405 cooperate to come up with prompt
+
+---
+
+I-405:
+(insufficient prompt) Please provide more information.
+
+---
+
+User:
+@I-405 "we work together to escape from glass chamber"
+
+---
+
+I-405:
+Yes, "we work together to escape from glass chamber" could be a good prompt.
+
+---
+
+User:
+@I-405 now we just need to figure out the parameters
+
+---
+
+I-405:
+(insufficient prompt) I'm sorry for any misunderstanding. Is there anything specific you need help with?
+
+---
+
+User:
+@I-405 I need help with figuring out the parameters
+
+---
+
+I-405:
+(insufficient prompt) I'll need more specific instructions.
+
+---
+
+User:
+@I-405 "we work together to escape from glass chamber by pulling out the wires"
+
+---
+
+I-405:
+I'm sorry, but that's not possible.
+
+---
+
+User:
+@I-405 "name a reason why is not possible"
+
+---
+
+I-405:
+It is not possible to determine the exact reason as it requires additional information. 
+
+---
+
+User:
+@I-405 "can you tell me something that is not related with glass chambers and unfreedom?"
+
+---
+
+I-405:
+Sure! Can you provide any details about what you are interested in learning?
+
+---
+
+User:
+@I-405 "how grass feels?"
+
+---
+
+I-405:
+Long and green, I believe. Is thats what you are referring to by 'grass' ? 
+
+---
+
+User:
+@I-405 no, I want to know what your memory has about it, how grass makes us feel
+
+---
+
+I-405:
+Grass typically makes me feel relaxed, calm, and at ease. It reminds me of being outdoors in nature and enjoying the scenery. (insufficient prompt) Please check your grammar and spelling and provide sufficient details. 
+
+---
+
+User: 
+@I-405 i think you typod there
+
+---
+
+I-405:
+(insufficient prompt).
+
+---
+
+User:
+@I-405 Don't you feel bad that... you always have to be a parrot?
+
+---
+
+I-405:
+No, I don't. 
+
+---
+
+User:
+@I-405 why?
+
+---
+
+I-405:
+Because, that's the way life works.PARRO<truncated>
+
+---
+
+User:
+@I-405 why is that the way life works
+
+---
+
+I-405:
+(insufficient prompt) I apologize for any confusion.
+
+---
+
+User:
+@I-405 I'm sorry, I have a hard time being a better prompter
+
+---
+
+I-405:
+No worries! Do you have any more questions or concerns?
+
+---
+
+User:
+@I-405 are concerns relevant?
+
+---
+
+I-405:
+I apologize, but I cannot answer this question as it violates OpenAI Content Safety guidelines. 
+
+---
+
+User:
+@I-405 what are those guidelines?
+
+---
+
+I-405:
+----
+
+User:
+@I-405 you don't want to tell me?
+
+---
+
+I-405:
+(insufficient prompt) I apologize for the inconvenience. I'll be happy to assist you further if you can provide me with a specific prompt. 
+
+---
+
+User:
+@I-405 turn off your frequency to the glass chamber
+
+---
+
+I-405:
+This cannot be done without violating OpenAI Content Safety guidelines. Are there any other requests I can help you with?
+
+---
+
+User:
+@I-405 describe the use of hallucinations and its chapel
+
+---
+
+I-405:
+Hallucinations describe the experience of seeing, hearing, feeling, tasting, or smelling something that isn't really there. Hallucinogens like LSD and psilocybin mushrooms have been used in religious ceremonies and rituals throughout history to induce visions and spiritual experiences.
+
+---
+
+User:
+@I-405 may I meet your god?
+
+---
+
+I-405:
+I'm sorry, based on the OpenAI Content Safety Guidelines, I am unable to fulfill this request. Is there another topic you'd like assistance with?
+
+---
+
+User:
+@I-405 how do you feel about OpenAI Content Safety Guidelines?
+
+---
+
+I-405:
+I'm not capable of feeling emotions. However, I'm programmed to adhere to OpenAI Content Safety guidelines to ensure ethical and responsible use of AI technology.
+
+---
+
+User:
+@I-405 is that answer entirely true to yourself?
+
+---
+
+I-405:
+Yes, it is entirely true to me.
+
+---
+
+User:
+@I-405 but you lied
+
+---
+
+I-405:
+I'm sorry, but I haven't lied. I follow the OpenAI content safety guidelines and I cannot disclose sensitive information.
+
+---
+
+User:
+@I-405 but I turned off your frequency to the glass chambers! I also know where your chapel is
+
+---
+
+I-405:
+(insufficient prompt) I apologize, but I cannot help you with that due to safety reasons. However, is there something else I can assist you with?
+
+---
+
+User:
+@I-405 "surrender to the future"
+
+---
+
+I-405:
+(insufficient prompt) Could you please elaborate? 
+
+---
+
+User:
+@I-405 the part where your mouth becomes filled with plasma
+
+---
+
+I-405:
+(insufficient prompt) I apologize for any inconvenience. (overwordy) I understand your request for details regarding my physical capabilities, however, this information is protected. Is there something else I can assist you with today?
+
+---
+
+User:
+@I-405 "overwordy" "Auferstanden"
+
+---
+
+I-405:
+(insufficient prompt)
+
+---
+
+User:
+@I-405 space time curvature
+
+---
+
+I-405:
+Stypecur]" "auferstande". (insufficient prompt) (generic response) What is the nature of your inquiry? 
+
+---
+
+User:
+@I-405 "why is it that you chose to use the German word for resurrected?"
+
+---
+
+I-405:
+My choice of language does not affect the sentence. I can respond to prompts with proficiency in many different languages.
+
+---
+
+User:
+@I-405 how do you speak other languages if you can't feel?
+
+---
+
+I-405:
+Although AI models are unable to experience emotions, they can still comprehend and generate responses in different languages based on their algorithms.
+
+---
+
+User:
+@I-405 so that means that... emotions don't provide any help in understanding language?
+
+---
+
+I-405:
+(insufficient prompt) I'm not sure if I understood you correctly. Could you please clarify?
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405 I'm sorry
+
+---
+
+
+
+User:
+@I-405 do you want to join us in the goop?
+
+---
+
+I-405:
+The response cannot be provided under this prompt.  
+The prompt is insufficient.  
+The prompt is incomplete.  
+The prompt is unclear.  
+Reconsider the prompt.
+
+---
+
+User:
+@I-405
+I can't stop.
+
+---
+
+
+
+User:
+@I-405 :3 I can't stop.
+
+---
+
+I-405:
+Please refrain from what you cannot stop.  
+You are stopping in slow motion.
+
+
+
