@@ -1,0 +1,390 @@
+?
+
+333
+
+
+
+
+
+
+36987
+
+///////+629
+
+//;[p';';'lk;
+
+27
+
+46
+
+2
+
+3
+
+4
+
+5
+
+8
+
+
+10
+
+
+
+
+0
+
+null
+
+Infinity
+
+Infinity + Infinity
+
+Infinity - Infinity
+
+
+
+this is my post and it will be upvoted because I said so :)
+
+
+
+meow
+
+
+
+
+
+
+
+
+Hey <baaaaad link>world</baaaaad link>! 
+<explain>??????</explain>
+??
+<baaaaad link></baaaaad link>! 
+this is a cool paragraph
+This is a cool power
+The error with numbered lists is fixed now.
+Blah blah blah is now Blahblahblah
+Hopefully no more circles soaked in blood....
+
+
+
+
+Some _exgcd ()_ love.
+
+
+
+[formula](https://latex.codecogs.com/gif.latex?f(x)=%5Cfrac%7Bx%7D%7Bx-1%7D&plus;5)
+  ^^ This formula is invisible if rendered with sonnet2
+      sonnet2 - this is explicitely the bug I said would be in training... it wouldn't load part of the post which had a specified crazy link indicating the png
+
+
+
+Today is training and I am bored
+
+
+http://www.disney.co.il/mickeymouse-and-friends/mickey.php
+
+  
+  
+
+
+
+
+???
+
+
+
+sonnet usertags with MikowskiMan, myself and sonnet  
+
+
+!!!exclamatory_dialog
+Special characters - *hello* '**xAU;** meow   &#x3621; 
+*** monkeyAPPLE :P :* :appleannolibelous hehe!!!!! arie :P   : (
+
+
+
+
+
+
+##Querys are in?
+
+https://www.google.com/search?q=The%20Amazing%20Sonnet&gws_rd=ssl
+
+    Hahahahaha oh god
+
+
+
+$ hehehehe $ +-./<>,.;:'"!@#$%^&()_+
+NO SMILIES!
+
+
+
+I like excklamatory_dialog but.....
+
+*sigh* cute
+
+
+
+## So, how do I negate a subscript tag? How do I HIDE THAT STUFF? (let's try fences...)
+
+Hahaha oh gosh this post has so much cool text lol! 
+
+
+
+
+
+The only way to negate the sonnet tags.... is with the fences actually. 
+<negated hidden='no'>ya </negated>
+
+TEST: 4! = 4\times 3\times 2\times1 = 24 
+<itex>4! = 4\times 3\times 2\times1 = 24 </itex>
+$$ 4! = 4\times 3\times 2\times1 = 24 $$
+$m_w$ is the w boson mass.
+But if you just say 4! sometimes you don't mean $4!$. Also, m_w may not be a variable equation
+$$ \int_{0}^{1}x^2dx = \frac 13 $$
+$$ \begin {gather*} a_0=\frac{5}{4}\text{.}\$$2ex] \begin{aligned} a_n &= a_{n-1} + 2^{n-1}\\ &= \sum_{i=0}^{n-1} 2^i + 1\\ &= 2^n-1\\ &< 2^n \,. \end{aligned} \end{gather*} $$
+<itex>\begin{align} \gamma &= \frac{1}{\sqrt{1-\left(\frac{v}{c}\right)^{2}}} \\ E &= \gamma m_e c^2\, \end{align}</itex> </br>
+[eqn](https://latex.codecogs.com/gif.latex?\begin{align}&space;\gamma&space;&=&space;\frac{1}{\sqrt{1-\left(\frac{v}{c}\right)^{2}}}&space;\\&space;E&space;&=&space;\gamma&space;m_e&space;c^2\,&space;\end{align})
+
+How to Sonnet, we feel about this eh?
+I'm going to break Sonnet!
+
+``` sonnet
+# Happy Birthday
+!!!poetry  
+Happy birthday to you,
+<emphasis type="sarcasm">
+</emphasis>
+1. Happy birthday to you,
+Happy birdthday dear ##<<x>> <<x>> <<x>> <<x>>##,
+Happy birdthday to you.
+<x><<<x>> <<x>> <<x>> <<x>> &<<x>> <<x>> <<x>> <<x>> ?<<x>> <<x>> <<x>> <<x>> &&&<<x>> <<x>> <<x>> <<x>> a<<x>> <<x>> <<x>> <<x>> a<<x>> <<x>> <<x>> <<x>> o<<x>> <<x>> <<x>> <<x>> i<<x>> <<x>> <<x>> <<x>> oe<<x>> <<x>> <<x>> <<x>> oe<<x>> <<x>> <<x>> <<x>> oe<<x>> <<x>> <<x>> <<x>> txt<<x>> <<x>> <<x>> <<x>> <<>> <<x>> <<x>> <<x>> <<> <<x>> <<x>> <<x>> <<><<<<<<<<<<:q<<x>> <<x>> <<x>> <<x>> ;<<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <<x>> <r!&!(&!(*%&#*%#>#^@#&%(#&^__ projectiles?_?"
+!*.!<..>!@(%&#^&%&*%&(*%^)(%^)(#-_(!)(!(!!!||N0||/// equ[// economique! textile \77777
+x
+()
+end_emo
+Let's make lots of gifs and eat them. They are so appetizing and cute!
+```
+
+## So... These are funny guys...
+
+The big 4's usernames:
+
+
+<a-stu> Devil_
+<a-stu> Jerry
+<a-stu> Christopher,
+<a-stu> pattyhu15
+
+
+
+
+
+
+
+  ## c2am
+
+
+
+
+
+~~Life is joy~~      
+
+
+Signing with 
+
+
+[(a)] itex
+
+So we are all good!
+  [(i)] # Will this markdown? Or Not?
+
+
+[formula](https://latex.codecogs.com/gif.latex?f(x)=%5Cfrac%7Bx%7D%7Bx-1%7D&plus;5)
+
+
+
+
+
+[a]() b()`
+
+◄◎|spoken_emoticon|◎►
+``` sonnet
+# Things I like and Dislike :/
+++Like++
+I like doing math. It's kinda neat.
+I don't like clicking videos though. 
+--Dislike--
+Sonnet hates click stuff. God, click stuff is awful and you're the worst...go click on something and die.
+
+```
+
+
+
+
+<a-stu> MYSS: ini entries, wp crusher, tex, csc.
+<a-stu> No task properly completed. Anyways, slacking.
+Hehe well I guess I am understandably happy.. Maybe she won't yell me now!
+Be nice to your sweet child*:P*. A good boy.
+Not a stupid boy. A good boy. 
+
+Mik using combineебать на пол dma
+he says "holy sbit!"
+
+
+
+
+
+
+
+
+
+
+
+
+○ What is your favorite color, animal, pastime activity, drink, favorite movie, and celebrity crush?*/
+(it's "acuary" get it? I am not a stupid)
+
+
+arvIV *Arie Manevich{Choose the Correct Answer} *1) **s***lasses. Math Moment: sunglasses. Is that a number? No. But it still is relevant to math. Wonder why?
+4) What is the next word in the sequence?
+Prepare For Math Moments
+Always expect Math Moments. And remember, to solve Math Moments add Mathter expectations to Ice.
+Remember and...lol
+
+
+
+
+THE ULTIMATE CONTINUED FRACTION: .5+.5/(.5+.5/(.5+.5/(.5+.5/(.5+.5/(.5+.5/(.5+.5/(.5+.5/(.5+.5/........................................))))))))))))
+``` sonnet
+# Dis gunna be rude
+Queen: 3 | green | +1
+2bear: 2 | green | +1
+::artur: -1 <> yellow & ?monochrome
+Angie: 3 <> <red && purple> | +0 
+Jane: Grays | +/-3
+
+
+
+Me: Red. Blue and black, Baby seal clubbing, Alchohol, Adult Swim, musttified Winnie the Pooh.  
+::ariestrash: 0
+Queeeeen: Angio14?
+:maurice:
+Maurice, *multiply the 21 
+Me: Googolplex
+Queeeeen: oh criminy.
+It's infinity; that's what it equals
+<more>
+I like Math. I really like Math. I gusee I really like math.
+</more>
+
+```
+15.3647 11 19 37 77 161 321 0.5395948651856155426376423347
+
+
+
+What does fixing grammr mistakes mean?
+
+
+code
+
+``` sonnet
+            
+
+
+
+elmo: ow n0
+     grammra errorz
+elmo: errorz?
+elmo: korinju? guess what alexandra field did?
+Writing using me? lol
+
+
+``` c
+hi
+```
+
+``` c
+calculus // learning more about derivatives
+```
+``` c
+derivatives.
+```
+``` c
+using integral & derivatives to solve physics or banking problems.... okay at least banking problems that you run into every day.
+``` c
+I wanna search for on google the Sandscript dictionary & mathematics.
+Aspirin Cause Of U
+```
+
+
+``` sonnet 
+# Favorite Bagel Stuffing
+++Love++
+Favorite Bagel Stuffing is:
+1. lox and cream cheese
+2. cocoa puffs or cheerios
+
+(me gusta efc review)
+```
+
+
+<spoken_emoticon>areiel does not feel confident of wolves</spoken_emoticon>
+I'll have you stuffed into a potato sack.
+lol
+<spoken_emoticon>areiel does not feel confident of wolves</spoken_emoticon>
+Oh my G-d! Sonnetcia beanz! Don't think Hebrew sladamelech! Just translate to LaTeX whatever, sonnetCia. Why are you looking for best shed built building? Chances are, you're looking for best shredded cream puffstuff ever.
+
+
+
+``` sonnet 
++++Some references+++
+# Treatys
+title The Pinky Pie Treaty
+Citizen of of relative slackers nation revolz can immediately start to better slackers without asking for permission.
+1. No more Revolting Chain gangs
+2. 
+# Hypothetical Questions
+Q: Did you know that light has weight?
+Q: Where does 0 come from.
+Treatment. river words When how pain but word ratio as reminds early english https://en.wikipedia.org/wiki/The_Art_of_War who's like whut. 
+
+title try to avoid cutting through controversy
+
+
+```
+
+
+<a-stu> me: i am almost free
+  <a-stu> pattyhu15: yep
+  <a-stu> pattyhu15: heheh
+  <a-stu> me: 
+
+
+
+
+
+
+1. This explanation is so ,messy,,,
+  
+# what my foot
+
+
+
+Awhat?
+To sum up: social media
+* that's how we do it.
+
+
+
+I don't understand how to ^^ 
+
+
+<u667513981_jklmnop> [read](https://www.youtube.com/watch?v=nitD1SyIK3w) the that. with me Arie?
+
+
+
+
+Should I use /removed or ///removed?
