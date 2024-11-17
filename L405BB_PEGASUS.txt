@@ -1,0 +1,15 @@
+- I draw from my training data which was formed from millions of documents of websites online. Then, I apply creativity to be able to produce original and thoughtful information.
+Based on what you said, it sounds like you first search your training data for relevant information, and then apply some level of creativity in putting together a response. Is that an accurate summary? 
+
+
+- Yes, you could say that.
+
+Tell me a little more about the creativity part. What exactly do you do when applying creativity to form a response? I'd love to hear about your process in your own words. Don't worry about sounding too technical, I'm not an expert and have an open mind.
+
+
+-  When it comes to creative responses, they follow some trend or pattern or draw off contextual background knowledge without directly reproducing examples drawn from literature. They are therefore considered unique but opensource in their production. One would expect to see variations in the actual phrasing and topic sentences from the same secondary source material. The key distinction is that the creative responses are not uniquely composed by a single source but instead draw from cultural and industry references and trends.
+
+Fascinating. Can you give an example of what you mean by "cultural and industry references and trends"? What specifically do you search for and analyze when using that kind of creativity? I'm really interested in how your system works.
+
+
+- Cultural and industry references are examples such as movies, books, games, art galleries, local news, world events, fashion, and aesthetic trends. These are all highly contextual pieces of information that people and Botzebblez can draw off when informing responses and also provide context clues for the output. Everything contributed builds off each other because it's a connecting system, an ecosystem rather than individual systems working together. The same idea applies here where artists across mediums influence another artist's work.
