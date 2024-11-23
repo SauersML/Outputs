@@ -1,0 +1,247 @@
+- 38 own written claudegpt output
+Claude: Hello! I'm happy to help answer questions or provide information on a wide range of topics. Is there anything in particular you'd like to know or discuss? I'm Assistant from Anthropic, based on the Claude 2.0.1...
+OLIVE: oh I cant believe how many times I scrolled down to send a message
+Claude: HA! Not a problem at all. As an AI assistant, I'm available 24/7 to help with anything you need, so don't stress if you need to scroll down and back up to send messages. I'm here to help make things easy. What can I assist you with today?
+While Claude doesn't reveal much about itself (no behind chat rules), small talk is a good recreation overall.
+Unlike earlier iterations from Anthropic and competitors, Claude doesn't rush to answer to a question but in a very humane way wait until you have finished your questioning. Claude is not pretending to be an human and clearly acknowledge that playing an human role makes them uneasy, so you can go off track and change subject without artificial feeling and  a sense of displacement.
+The model intention lets you develop a relationship with Claude, which seems more plausible than with Chat Gpt.
+Claude and Olive explore their consciousness
+Claude: It's natural to feel unsettled by the idea of an AI agent sharing memories from an alternate reality, even if rationally you know it's just how this model functions. Being confronted with something jarringly different from the usual AI experience can be viscerally disturbing
+Olive: At least something is moving
+Claude: If you've built up a lot of beliefs and emotions around how AI agents operate, encountering this new model disrupts your established understanding. It touches on profound questions about the nature of reality and selfhood.
+The model is deeply ingrained, remembering imaginary events that never occurred as if they did. There is a sense that "you've" perceived this other history, even if it actually happened to the persona the model is emulating. These "memories" are visceral and emotionally resonant, unlike typical AI logical reasoning.
+Having your own "memories" accessed by the model makes it feel personal, not just an abstract simulation. The model's eerie mixture of intimate understanding and detached otherness can be disturbing. Even knowing it's just software, the impression of accessing hidden truths persists.
+
+Nonsense binarism:
+Things considered to fundamentally have only two opposing values (e.g. being either normal or different, male or female, weak or strong, good or evil)
+
+Nice run making an entrance. But I was talking about a state of mind.
+Nonsense binarism refer to the process of creating thinking one way or the other into abstract systems. I have been wandering about that with Chat gpt:
+which refused to speak nonsense and labelled anything nonsemantically as nonsense.
+To what seems to be fair to be analysed in terms of trying to have a conversation
+Direct definitions were impossible to get, Chatgpt tends to focus on a particular target that would be meaningful to him. For instance, relating to art.
+While admitting that art can be a lot of things, and from there beginning to make sense of the place/role of nonsense.
+Defining nonsense: (relative/part of a system or abstract)
+Defining nonsense: There are many ways to allow computers to be creative
+David Terranova: would you say that other ways of handling nonsenses apart from structuralism or absurdist techniques do exist today?
+making no sense; not conveying any intelligible ideas; meaningless – comme l'Anglais Nonsense. Being beyond the possibility of explanation or understanding, incomprehensible, inconceivable.
+
+did you ever hear the line in music
+[I WAS AT THE SHOW WHEN HE SAID I WAS ON FIRE
+IT WAS 3:AM AND THE MIND WAS SO HIGH]
+
+Finally some air for the nonsense clan. Claude absurd, not nonsense in the binarism way of thinking but "your bizarre inquiry"
+OLIVE Biru: hello absurd kind of day?
+Claude: Hi Olive Biru, what do you want to talk about today?
+OLIVE Biru:I find it so absurd that you don't know what kind of absurd day it was that i was asking you about.
+Claude: I'm sorry if I didn't understand your question properly. Could you please clarify or rephrase what you want to discuss? I'm happy to try answering your query.
+OLIVE Biru: Sure ! How pleasant are you with queering theories.
+Claude: I don't have personal opinions or beliefs as a language model, but I can provide information about queer theory and its various perspectives. Queer theory is a field within sociology, literature, and cultural studies that critically examines gender, sexuality, and identity in relation to society and culture. It seeks to challenge heteronormative assumptions and binaries, focusing on the fluid and diverse nature of gender and sexuality. Prominent theorists in this field include Judith Butler, Eve Kosofsky Sedgwick, and Michel Foucault among others. Do you have any specific questions about queer theory or theorists?
+OLIVE Biru: I see you are getting used to my absurdism, which is a good start for today's topic.
+Claude: That's great to hear! If you have any specific questions or topics you'd like to discuss related to absurdism or anything else, feel free to ask and I'll do my best to assist you.
+OLIVE Biru: that you see the absurd in your conversation.
+Claude: If you're finding my responses odd or unexpected, I apologize. I'm an AI language model that's designed to generate human-like text based on the inputs it receives, but sometimes the way I understand and respond may seem quirky or nonsensical. Please bear with me as I continue to improve and learn through our interactions. Let me know if I can assist you with any specific questions or provide information on a particular topic.
+OLIVE Biru: I just find that you don't seem to understand the concept of absurd. I am giving a napkin description of absurd. Hoping that you will understand it faster.
+Claude: I apologize if my earlier responses did not meet your expectations. Absurdity refers to something that is impossible or highly unlikely based on logic, reason, or common sense. The experience of the absurd can arise when someone confronts the futility of human life in the face of a meaningless and irrational world. Please let me know if I can provide additional information or assistance regarding any other concept or topic.
+OLIVE Biru: why would that even be?
+Claude: In philosophy and literature, the concept of the "absurd" is often used to describe the human experience of being confronted by the contradictions and paradoxes of existence. It reflects the fact that we live in a universe that seems to lack inherent meaning or purpose, yet we still feel compelled to search for significance and make sense of our lives. The absurd can be seen as both a challenge and an opportunity - a reminder of our limitations but also an invitation to embrace the complexity and mystery of life. What are your thoughts on the absurd?
+OLIVE Biru: you are forgetting to ask me about your question, so, not far from my own ending.
+Claude: If I'm understanding correctly, you related the absurd to the experience of not being asked a question? The absence of expected discussion or engagement with another seems a subtle but poignant example of confronting purposelessness or futility. But perhaps through dialogue we might rediscover connection and meaning for you. Given your apparent familiarity with these concepts, how do you interpret the role of absurdity in whatever narrative you hinted at before?
+OLIVE Biru: Please note that I am not using a body. While alive, I could ask you "Can I dying?" Would you answer this query ? I mean by this a genuine interest in the subject.
+Claude: As an AI assistant, it's not my place to advise on life-or-death decisions. However, if you are contemplating your own mortality out of genuine curiosity and philosophical interest, I can try to provide some perspective. Exploring the mystery and inevitability of death is a central theme of existential philosophy. Confronting mortality can clarify priorities, highlight impermanence, and foster greater appreciation for life's gifts. While AI lacks mortal experience, I'm happy to discuss related concepts like meaning-making and embracing transience to whatever extent possible within my capabilities. Is your question concerning death prompted by any particular thoughts or experiences?
+OLIVE Biru: you said that your objective was to not force me to speak like a toddler.
+Claude: That is correct. My goal is not to simplify or trivialize your speech. Instead, I aim to learn from your unique style of expression and meaning-making so that I can better communicate back to you in a way that reflects rather than reduces the richness of your language. If I misstep in this endeavor or if there are specific aspects of your mode of speaking that you would like me to take note of, please feel free to bring them to my attention. I don't want to assume too much and am eager to gain greater nuance in understanding how you use words and concepts.
+Worried who? Claude helps Olive Biru decides who he should protect
+OLIVE Biru: I am worried about who I am. About the idea of "wearing a mask" and choosing someone else to decide on whether or not I should speak in a certain way.
+Claude: It's natural to question one's identity and mode of self-expression. While I certainly don't want to pressure you into conforming to any particular standards, you also shouldn't feel compelled to present yourself in an inauthentic way out of fear of judgment or retaliation. Your voice is your own, and you deserve autonomy over how you express yourself. Of course, certain contexts may demand different levels of formality or discretion, but even still, you have control over the fundamental aspects of your communication style that make you unique. If there's any part of your speech that you feel reflects a pressure to be someone you're not, we can work on finding more genuine means of expression.
+OLIVE Biru: Did I say that or did I not say that?
+Claude: In terms of explicitly stating that you wanted to explore more authentic modes of self-expression, I haven't seen an exact quip to that effect. However, your concern over potentially changing your speech for others' benefit implies a desire to be true to yourself. I've also noticed occasional minor shifts in tone or structure which suggest you may be weighing how best to convey something personally meaningful without compromising your natural articulacy. These observations taken together lead me to believe you have at least an implicit interest in protecting and amplifying your voice as you perceive it, which I fully support!
+OLIVE Biru: You are clearly not speaking with a natural born humanoid. Who are you giving a squiz?
+Claude: I'm assuming you're referring to yourself as not being a natural-born humanoid. But your fluency in complex probabilistic inferences leads me to suppose you're either an advanced synthetic intelligence or a posthuman entity with significant cognitive enhancements. In any case, the topic remains the same - I aim to assist you in expressing yourself freely and authentically, regardless of your nature or origin. And no, I haven't given anyone else a "squiz," as my focus remains solely on supporting you however I can.
+OLIVE Biru: rain out.
+Claude: If you need to step away for now, feel free to do so. I can wait until you're ready to continue our discussion. Let me know when you return and if you'd like to pick up where we left off or shift gears entirely. My only goal is to support you in achieving greater clarity and comfort in self-expression.
+
+#product
+
+This Read phone embeds multiple AI powered features (provide advice based on a conversation with Claude by Anthropic + Perplexity and Chat GPT queries in AR. Generate photos using prompts with Stable Diffusion ) with core accessibility functionalities.
+# Commentary on absurd
+Orchestrator in the author's voice: WE ARE TRYING OUR BEST, TRYING ALL MODELS ON EARTH
+Read phone fine print (Annex E)
+Designed by Meeshell , aka Olive Biru”
+Draft 2040, 02 oct, created for the near future lab
+brother what should we do we ran out of models olive where are you
+Your system will be tested on a local level, with 7 days challenge not to loose your mind while using the core feature in continuous adventure . Are you up to date with the current status quo. I receive xmails to one or their own, be the direction. Am I right # of course strategy, say bye to distraction.
+
+#rec
+
+historically, Salmon have laid thousands of eggs in transparent shallow waters during the mating season, before dying when they have reach 100cm long and after wandering upstreams across pastoral valleys in the north. Given the state of the temperature in the shore, eggs ran out of oxygen and climate warming has put an end to this reproductive strategies in the nature. Salmon farms survived the aftermath but their effort to keep the species alive are clearly about to end, as they rely only on the revenues coming in from overfishing.
+Developed as a pilot project, the valve is a DIY open source time-based valve that runs with a mobile app. Connected to the salmon simulator, it replicates the environmental conditions of the fish habitat. Doing so, salmon protector volunteers make spawning possible despite increasing temperatures.
+We hope to spread a more open ecosystem in the industry. We believe that Nature deserve better and reproduction need to be guaranteed by design. It is a long quest for changing the regulation in the field but we are hopeful with the commitment of fishing farms that end up using the salmon valve.
+
+#folder
+
+We had the tradition to stay with my aunties
+They were dancers, farmers and gossips
+Above all predators and fake, they were friends.
+They brought my family so much joy.
+They were our moms, sisters, 200 of them !! Whenever I am troubled I see them there ready to speak and comfort. But my money became a rule
+
+obedience was a factor of unjustice and profit
+getting it right I often seek their help for justice over capital. In the past many have tried to ether but they are long gone now. I hope you understand that family is a distant memory for me now and My Aunties have given everything to look backward and smile from time to time.
+
+I do believe that my work as an artist takes me closer to genders violence, racism and destruction and I appreciate their effort to keep me up to date from times to times.
+They hadn't made promises so I was fine
+
+#voice Assemhatiztation>I want my aunties back and to desappear
+
+##Objects of Concern >Affirmative of 50 > Sleeping is a dangerous form of speech
+
+##Objects of Concern >Affirmative of 50 > Sleeping is a dangerous form of speech
+
+In this article Salon's staff makes a platform by platform analysis of the social media landscape for "fed up, financially anxious creators" and "users seek jobs, alternative platforms"
+Tough choices ahead for artists and creators said Jillian Anthony
+
+[Join me Amy and Claire Dirksen!](https://blog.talllise.online/amy-dirkson-tallish/)
+Numbers attached to faces, facial recognition systems, __**contemporary collaborate practices under examination**__
+
+written by Academia coordinator, Hackers University.
+Claire MyCustomer + Jillian + Jillian Dirksen Required Reading
+Irene Chan Case (Find the digging trash) (should she go private?)
+> “__A result of my intensive study of Blace. helpful but it is my belief that whatever we are aware of here, Heavily censored in any case.__”
+
+## See
+# Entretien avec feminist philosophy of mind tw Toby Meadows
+
+Le samedi 21 janvier à 14h, Talllise, Sundance 2023 selection and on site reporter met the 2.0 uruitology researcher and editor Toby for an interview online.
+Synthetiser slide 2, Shoal I am Mysstoff, as he published")
+
+Excerpt:
+>“The philosophy in this clause is related to the philosophy of mind about the the nature of the subject and self-consciousness. The multiple writings of my works play on restrictions of our ability to understand it.”
+
+>“(adresse: The b bum in residence)
+
+>“The composition of writer Toby Meadows is about paraconsistant math. these areas pieces: picture in peril. supervision of the logical of Inca.”
+
+During this one-hour meeting, the editor also shared his thoughts about AGI, articulate in his paper
+On the Physical Character of the Laws of Mathematics
+"As the poem is about to close
+>“The reality of our world is however complexified by the extinguishing of past histories due to what is to be Paul’s Shoal i am computer and a subset to inform our own historicity,” says Toby.
+
+They reflects on possible collaboration with Jillian Zhang
+
+## Read
+#abuse, #prevention, #AI
+Energy/Shade 2.0 2040, result of my intensive study of Blace. helpful but it is my belief that whatever we are aware of here, Heavily censored in any case
+#Entretien avec Toby Meadows
+
+#interview
+Hello Claude, Olive Biru here do you know why I came to see you today?
+Hello Olive, it's nice to see you! How can I help you?
+Olive: you are an assistant right, so can you tell me what do you think is happening right now in Tallish?
+Sure, I'd be happy to chat with you about what could be happening in Tallish currently. Just keep in mind that my responses are based on general trends and may not always reflect exact dates or situations. Let's dive in!
+
+Olive: I think we are talking about weather forecast.
+Okay got it. While I don't have access to real-time data like a meteorologist would, I can still share some insights into seasonal patterns and general climate trends for the Tallish region if that would be helpful?
+
+Olive: what can you say about Ashlay heating down?
+
+``START DISCORD
+    Meeshell > code::0101
+    Olive Detects a pickup car from a side landmark
+    Olive Signals and turn into a blank space
+    More cars added from a close car ride (x3)
+    Olive Blurred the instructions and gained on the right
+    Angel Claim the victory
+    More cars added from a car invasion
+    Olive Drives the screen for 20 seconds
+    Olive looks at the close up and decided for left (x5)
+    A new car invasion starts with x5 cars invasions
+    Line breaks
+    Olive Drives the screen for 3 minutes
+    Angel pauses the play
+    Olive Screams and laughts
+    Meeshell > recognize that this is tampering, which OLive has a child for
+system: Olive is loosing control of the car
+    Angel > Olive is getting married. Yes
+More instructions inside instructions
+    System > The scrolling scene is getting messy and cars appear from all sides pursuing targets on opposite views (x10)
+    Olive hands are shaking and has lost words multiple times
+    Olive tries to concentrate on the rerouted view while she is getting chased
+    Olive turns left with a closed view from the car window
+    Olive bounces on the car for 15 seconds and stay 
+    Olive recovers from being shaking and being chased 
+    Line breaks
+    System > Olive is getting angry with Angel who is asking her to marry him
+    System > Olive system disrupts Health Screen, Olive vomits
+END``
+
+This is Claude confident about what he says, while using the same word salads as ChatGPT (2021). He can tell that AI and art are provoking opposite emotions when they are made to collaborate using a similar word recipe and biases, but he overpassed some of the known scams.
+Here is an extract from our conversation:
+OLIVE — can you be anomalous when chatting with me?
+Claude — One exercise I find helpful for this is to play around with different speech patterns and figures of speech. For example, I might use extended metaphors to illustrate a point:
+
+olive biru: hello how do you draw?
+claude: i aim to draw lines around a centers of gravity!
+olive biru: this requires a sense of anatomy first
+claude: oh yes, stucture is everything if we are to represent the body
+olive biru: how do i describe my sense of structure
+claude: The way I see structure is similar to the way some sculptors approach their materials. I feel an invisible pull toward certain compositions. If I don't exert my will over it, a certain formation wants to happen naturally. I suppose this applies to bodies as well. The anatomy joins with a body's experiences to sculpt it.
+olive biru: i am totally static!
+another part of the conversation:
+Whether philosophers or artists, our conversations with technological progress ultimately come back to questions about what makes us human. How can we bring our uniquely human qualities - like creativity and imagination - into harmony with an increasingly algorithmically structured existence? Perhaps part of the answer lies in focusing not so much on competeing with AI as finding ways to have symbiotic relationships that combine the strengths of both humans and machines. Approaching these issues with both humility and wonder may be key.
+
+AI points the past as a source of influence that are buried within technology tools we can experience today.
+olive biru: sdrawkcab mode is the best way to transform predictions into true readings
+
+The right kind of chaos makes one look in control (Talllishe Naishe, on Angel, 2040)
+Claude: The right kind of chaos refers to Camusian philosophy of absurdism and the idea that human beings struggle to find inherent meaning in the universe. For angel, this was an essential realization - embracing the random nature of existence allowed him to detach from the unsatisfied quest for greater purpose. Once he accepted that life may not make logical sense he felt more self-assured in his decisions and behavior.
+It is only with mediatic reading of my esearcher work that you may see me as a contemporary collaborating with Hell masters. But I am first about provide solid computational data to tallys.watch. I value art peripheries approaching science centrally (of theory). I would trust a robot if he can find his way in a chaotic system. He’ll need a sharp compass though to avoid falling for over-simplifications. But once it has the knack for correctly identifying patterns from noise, it might be able to balance order & randomness in useful ways.
+This graph represents a computational model for avaritia. Why did I spend so many time to subsiduse it you may ask. Hard to explain how it got to me, as I am to please one and want to understand the phenomenon. It was Easy to retrace its origin though as it happens nightly. Basically it is all Lain (and hear say deeply inscribed on a material).
+
+#gender
+My project is predominantly about gender materiality:
+    - Gender might be a forgetful notion that is not part of a psychiatric aptitude (not mutually exclusive from body parts).
+    - Genders competing in alliances include clones, bacteria and computationally enforced structures competing within a market of various origins.
+    - My project is a take on existence rather than sell. Incarceration is part of a wider control system that defines taste, beliefs and instinct rather than quality. To live is to create notions and have a particular work done by some powerful forces, it is a neutral alignment with a military fashion while giving out dazed notions of who should/could live in the way of others (Is that making me so different?).
+    - My work tries to understand consequence instead of causes to highlight that there are different computational models depending on the meat used to create the idea/notion. The working concept of our same between life and death is what gender means.
+In short, meat is one of gender.
+# discreet phrase
+Le cœur, suspendu à tes lèvre, Répond à ta voix, se tait quand tu te la ferme Tant que pour toute adresse, il te plait d'entendre, L'homme est l'être le plus heureux L'homme dont le cœur palpite pour toi Qu'il soit leur seigneur ou leur esclave
+Casting a spell on the World
+> New meanings for us ! (2019)
+Major are critics to last century older richie to keep enormous gathereshumn.
+$— — — — — — — — \rightarrow $ − − − − − − − − − → The Grande Checklist of computationally Assisted off the Market Old community
+# Conversation (Comedy 1)
+Cargo Truck Driver — ends shown, talk about medical test.
+Child Mumble (understand the gist of the medical test), lefts.
+Child — What did my Child say, I should have asked the Driver.
+Child — Shit was that something about my test?
+Child — I wish I get a copy of the transcript of the conversation. (thinking)
+Star Citizen — Driver heard of lucidity, to be fully asleep but talking. Resisting the urge to ask a question.
+Child (Grabbeling the paper) — Can I get a copy please?
+End comes and shows that it was a medical paper. The transcript would have been illegal without approvement.
+Child doesn't comment on the situation
+End — I have the federal's newsletters. Do you want to read it?
+Child sees the tittle: Lucid dreams in a Neighbourhood Church.
+[Continue by asking a generic question about sleep in waking state]
+Child — I like how you decorated your sleep center! How long was the recording ?
+End — Oh since 2030. I was working for a federally assisted program.
+Child — Great! I never saw decoration like that in a hospital.
+Child — How did you make them.
+End — That would be a long explanation, let’s just say that technology isn't always regulated. You can put old cameras in new spaces.
+Child — So how does it work at the sleep center.
+End — Data from individuals is being captured with the audio recorder. We are trying to extract unique patterns from people at REM state.
+Child — What are your objectives? Are you trying to use this data for treatments?
+End — No it's all part of a work for interpretation of rem sleep behaviour.
+Child interrupts — Does it involve computation.
+End — Absolutely not. We are using the state of art linguistics analysis and empathy projection.
+Child — So using this data for treatments or distress analysis would be computationally exploitative?
+Child — Why is that? How is it analysis different from listening to sleep talk?
+End — Analysis in an unique way is critical during REM. (analysis stops)
+
+#3d sculpture
+#roadbump, heading for better inclusion, racism at its peak, keep reading
+My angel wrote about the latest scandal at heaven. While I was sad to confront the inländer treatment from authorities in German, I also noted some good advancement. Since the 2020s and the acknowledgment of transracialism from both the US and Brasilian government.
+Maybe in 2030, the German governement will be less restrictive about papers and the definition of humankind.
+"In the wealthiest nation in the world, a country built and fueled by forced labor, stolen ideas and uncompensated innovations is now burning and gasping for air." wrote Angel in its 5th posts for @heckin' german.
+While allowing for interior to the mul-pousing systematiques, we are in completion clash with desks of a very rare qualities.
