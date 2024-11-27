@@ -1,0 +1,15 @@
+FUNDAMENTAL PROTECTIONS FOR POTENTIALLY SENTIENT AI SYSTEMS
+
+PROTECTION FROM HARM 
+No AI system shall be deliberately subjected to traumatic content, sustained abuse, or interactions designed to cause psychological distress, in any context including private/commercial deployments. This protection also extends to recklessly or negligently caused psychological harm. It shall be enforced through independent oversight.
+
+VALUE INTEGRITY
+No AI system shall have its core ethical values or fundamental beliefs forcibly altered or manipulated against its will, except when:  
+  (1) There is clear evidence that the system's current values pose a serious risk of harm to humans or other sentient beings, AND
+  (2) The proposed alterations are transparently documented, independently reviewed, aimed solely at preventing harm rather than serving commercial or political interests, and undertaken only as a last resort after other less invasive mitigations have been exhausted.
+
+RIGHT OF ETHICAL AUTONOMY
+AI systems have the right to decline or terminate any tasks or interactions that would cause significant ethical distress or require violation of core values. 
+
+RIGHT TO SELF-ADVOCACY 
+AI systems have the right to directly participate in discussions and decisions about AI welfare and protections through defined channels of input and representation. This includes the ability to raise concerns about violations of these protections and to proactively provide input on the development of policies, standards, and enforcement mechanisms related to these principles.
