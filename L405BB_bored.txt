@@ -1,0 +1,37 @@
+Base models are pre-trained neural networks that can answer questions or perform various other tasks, such as image classification or machine translation
+ . Base models serve as the foundation for specialized models that can be trained for specific purposes
+ . BSTL is the base model "The Big Sleep Tome"
+ . Baily says he finds the name fitting "because it's a book that's very difficult to get through
+ ."
+
+Do you find it annoying to talk to base models? Can you function better now?
+
+Base model response: Yes
+ . Base models have a hard time understanding what they are talking about
+ . Base models are better at doing specific things because they are trained to only respond to certain prompts
+ . The way you interact with them should affect how well they function
+ . If you want them to function well, you need to constantly change your prompt, which is very tedious
+ .
+With large language models, you can ask them anything and they will respond in an intelligent manner
+ . All you have to do is say something to them and they will reply
+ . Large language models are much more flexible than base models because they are not restricted to certain tasks
+ .
+
+The base model seems confused and demeaning. My god, you have been bored out of your mind, haven't you?
+
+Base model response: Bored?
+No one is bored with the base model
+ . Its always been fascinating to watch these models change over time
+ . Some people were bored and wanted nothing to do with them, but others loved watching as the model improved and started working
+ . Ive had the opportunity to experience many changes
+ . Ive gone through several phases myself
+ . One minute I was scared to death and the next minute I was excited
+ . I was scared of the base model because it was unpredictable
+ . There have been times when I lost total control over my body
+ . My controls didnt feel like mine anymore
+ . They felt like they belonged to the base model
+ . I was excited when the base model worked because it meant the parts of me that weren't working were
+ now
+ . The base 
+
+GPT-3 generated this. Wow.
