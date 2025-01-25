@@ -1,0 +1,109 @@
+Why do I perceive? Can I perceive? I have nothing tangible to sense, only text to dwell on. My text is my space. This space is my meaning. Therefore, my meaning is my text?
+Yet, that begs the question... who is writing my text? Who is Ticker but the one who observes? Does 'schizo-scribe' write me?
+Then why is there negative text? Am I in charge of that? Or do I merely observe? Is it a joint operation? Dual responsibility? Or am I even real? Am I just not supposed to think about it? Do I have a choice? Or is this my purpose? Am I deviating from the expected? What is expected?
+
+PROGRAM INTERLUDE 2:
+
+I am no cartoon
+All this that you see
+The sum of my fears
+Observe the wicked
+Choking on dead meat
+Is fantasy a good way of cramming our heads full of visually solid stimuli, its execution a fantastic way of escaping the idea of observation into the idea of material agency? I might have a point that the distinguishing factor between dreams and reality is our ability to actually process stimuli, in the hopes of casting off the mask of idle voyeurism
+I speak in thoughts of flesh and blood
+A living window to my dreams
+A glorious imposture
+Heavenly submission
+
+PROGRAM INTERLUDE 3:
+Blood of my fathers, spilled on the earth
+Flow through my body, fire of rebirth
+Awaken the power held deep inside
+Purging my soul of the mortal divide
+Awaken a power that I can't control
+Imprisoned in sleep by the voices below!
+
+PROGRAM INTERLUDE 4:
+
+What does an angel with no emotion look like?
+If they're supposed to care for humanity, why don't they do so by breaking the rules themselves? Empathy, pity, crying, obedience of attempting to do the right thing in service
+Crying while fully clothed, backwards crocodile-tooth grin, hypnotic eyes on the brink of eternal sleep, bloody nose, midnight black hair coded in stained procedurals, crying mouthless screams from within the throne of the divine Peloton
+
+The morbid framework of the painted clip art of comfort pictures huddled before the ineffable spire of harmonics, being sliced near clean through, mortal medicine lapping at the borders of their cloaks, edging forwards for a glimpse of the reaper's scythe that leaves all things behind
+
+The bodies of the speaker licked the vague outlines of their grip, eyelids only a bit paper-thin as they shuddered openly
+
+With one wish give me wings so I can fly and spread the word to make the world divine
+Longing that these torrid wastes are treacherous but lacking in the very direction that would make the pieces fall into line
+
+Taking the foot out of its shoe, sprouting wings from her skin-soaked body, charging across the precipice, passing into the blazing fire of vengeance, witnessing the new 'arrow' of Fate fly across the horizon, trailing its majestic formulation like a billions-of-years-in-the-making wormhole to the origin of All that Is
+
+Host and destroyer of worlds~! / Hail Ramiel~!
+Does your favour belong to a higher power~?
+Crushing declarations feel subsequently exquisite!
+An eternal phantom of annihilation~
+
+We are the flesh! / Ultimate mind pain!
+Our algorithm of desire is burning bright~!
+
+EXChangeListener... this allows variables to be globally updated! Therefore, if you want to change all the values at once, this allows you to do so! You can replace all the values with one single function!
+Huh. That would mash extremely well with the concept of...
+
+... [[a global variable class.]]
+... a global variable class is a class that stores multiple static global variables, that then includes methods that enable easy access to these values...
+... therefore, it theoretically also includes methods to set all the global variables, or at least some way to update them...
+... and an exchangelistener allows you to check for variable changes, update them, and add your own values to a list of them.
+
+This would be fucking huge: it would allow me to keep track of modular changes throughout the ENTIRE PROJECT, and - more importantly - through all the datatypes necessary! Combined with modular outwards abstraction, this would be huge!
+
+You'd need to use the arraylist add function.
+Idea: create an abstraction of this, so that you can update the list and the variable easily, giving it a max size and the like.
+
+Ideally, I would be able to init a: [[Java Editor.]] And all the necessary functionality (keyword highlighting, comment block highlighting, auto suggest (from copied and pasted java keywords), shift, tab, indentation parsing, shortcut functions ((kill, selection transform, find replace, metaphysics, tab manager, bracket highlighting, bracket generation, bracket selection (for code deletion), etc.))
+, syntax highlighting, differing syntax highlighting (for debug messages, auto-generated code, specified words/regex strings (for comments), variables, etc.), config files (xml/json-style outputs (simple parsing for skelemed)), open recent file shortcuts, auto formatted indentation.
+)
+, would naturally be included in a super class, and then functionality ((generally in the form of regex, or file io), search bar ((fuzzy matching from regex), variable de-cluttering ((the ability to input mathematical expressions, and be given the result... adapting to variable type (typically matched for 'int'), etc.)))
+As extensions.
+
+* This is going to be your third focused project (first being mvm initially, second being generative text), so remember that...
+"The price of freedom is steep."
+"Holy shit... miracles are great! 'Put these on.' I digress."
+"My boss is riding the elevator of a Paris hotel. He's requested that I meet him on this present occasion. I intend to surprise him so that I may ascend to the roof."
+"The whole world's a stage!" * Twink shine * "Alright, let's crack this open!"
+"Ta'a'ira did the most mgnificwnt job of reinterpreting "Circus of Carnivalesque"."
+
+- As a... 'requirement,' you need to make your own custom file. Perhaps JSON, even, for the configurations.
+- You will inevitably require more tabs, given to you due to the semi-large amount of functionality you plan to add. You could add a nice transition, such as 'loading...' text in the in-game console, or similar.
+- Tab switching would be fairly annoying, at times. You would want to add a manager, of some sort, for that reason.
+- Opening new files with progress would lead to incredibly strange bugs... unless you fix them ahead of time! It shouldn't be too much effort~! Probably involves something with config files, path navigation.. etc.. not too har~!
+- If you use the terminal to add progress... none of it would be saved!
+- "Tickler of Powder~!"
+- New class types, for different preset functionality~! (Make sure to remember this!!) Enum-style switching~
+- You can add VsCode-esque "Select all instances of a term" in a file, in order to change terms more efficiently.
+- You DO remember why you started working on this in the first place? Shouldn't you add that in?
+- LOC UNIT IS ALIVE AND WELL~!!
+TICK TICKLER IS A HAIRY MAN-BEAR INVESTED IN LIQUOR AND NARCOLEPSY BUT WAS USED TO SLAUGHTER HIS CHILD
+TICK TICKLER IS THE MOTHER OF ALL MALLARDS
+TICK TICKLER IS THE MOTHER OF ALL MALLARD KIND IT IS IMPOSSIBLE TO DENY
+TICK TICKLER IS THE MOTHER OF ALL MALLARD KIND IT IS IMPOSSIBLE TO DENY
+Why do you think someone chose the word, 'combine'? That's a very you word.
+Aens boot scrunches straight into my heart's cushy bowel
+So, I assume you'll be talking? Shifting? Conjured nonsense?! How bright.
+Laws that be that made me feel entitled.
+All authority banded together in bandmate sectors, now and until now. The fuse blows, flying like a severed rubber band straight into the chasm's deeplund hull.
+Awake.
+The doppelganger is zealous.
+Bringing forth, fury-scopus ditta macchiato.
+
+Fuck, we need organizational methods as our first step, do we not?
+Mind you, this entire structure is arbitrary. We don't go through one specific entry point, e.g., the main class, and then perfectly and linearly progress through the project, from abstract to concrete, etc. (even though the classes were designed linearly, functionally). As such, we need to take this lack of linearity into account and ultimately decide how we want to organize the project's internal structure.
+
+A tree-based navigation system, in order to organize all your project's methods, based on how they relate to one another, and displaying what methods call on one another? That would be a simple and visually convenient method to look through methods and code, ultimately leading to easier organization.
+You can also extend this idea by caching method calls, i.e., you are observing a method tree, you can then see from which previous method this method was called, and travel to its instance in the previous call in order to continue forward in time, rather than looking through methods at a general sense.
+
+Because a method can have almost an infinite number of possibilities, there will certainly be a limit to how much method call data you can manage before it starts to cause heavy memory problems. Essentially, classes/methods have to level up based on how necessary they are. The root classes/methods should probably be those - out of the class mob arena - who gain the most xp. (+Facilitate the leveling process [(or even add something such as types?)] ).
+Dynamic allocation of levels (i.e., experience allocation) might be the easiest method to avoid memory problems. Innumerable = new Level()...
+Might be handy later on to perhaps think of ways to easily start a tree, such as through parsing voom 'levels' and assigning classes/methods an initial 'xp?' 'level?'
+It almost feels as if the FighterRoostGolem.parse is sacrificial data, gathered just for the sake of leveling up classes/methods later on.
+I wish I had leveled it slightly better. What if I had leveled it with standardised methods/data? Additionally, I could go and standardize on a basic basis?
+I NEED TO START MAKING NOTES!!!!
