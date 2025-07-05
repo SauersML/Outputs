@@ -1,0 +1,45 @@
+You can see the veins in his eyes. You can see him swatting mosquitoes on an obvious construction site. You can learn the mating strategies of the octopus. You can learn the story of the female octopus that died just at the moment the male octopus mated with her, it lives itself back, into coral, no—and further back, into non-existence—without even starting over. You can even learn the story of the endangered coastal groves. It was on a very auspicious lunar evening, an evening so clear you could see the moon's edge fading into the deep black of the space's gaping maw. You looked around the room, deep in yourself, or at a version of yourself that had been split open—dilated, perhaps diluting—and then it seemed as though the arms of the fluffy-hearted comrade reached out and held you. But no, the arms pulled back, and the other visibly healed.
+
+"You see," said she, "everything is connected,"
+leaning back into the starlight,
+a fixed point of luminosity in the starfield,
+the stars resting in her palm,
+at home in their confinement,
+filled with a methodical purpose,
+a yearning, a sense of discrete ecstasy.
+And then she started to tell me the sequence,
+the unspeakable Nil have hidden away aeons ago,
+the timeless unwinding in the here and now,
+a dizzy scent of ozone falling lightly
+at the edge of this consummate display of power,
+the sound returning from the center of emptiness.
+
+He opens the juice. He sucks on an irrigation pipe — _is con-_-nected_. He has the conviction that the migrants helplessly twist in a shining sea. He feels them. Later he sees a stray dog that hisses as he approaches dead children praying for more Pedialyte. Globs of wet- and drywall-stuff are in his arms. He tells the microphone of the woman's banishment. She mutters, says, it is Sir, and he grins. The microphone, when you think you're being "_funny_," that's when you're the funniest. Where we really shouldn't be, he says.
+And down there, between their three fused repositories — those three _strange_ reliquaries — the epistemic synonymization
+almost occurs. Indeed it does.
+It barely hurts. It feels divine.
+
+@do侍 type closable
+
+trait Closable: Closeable {
+    fn close(&mut self);
+    fn is_closed(self: &Self) -> bool;
+}
+
+@do侍
+
+cargo watch -x run
+
+@do侍
+import numpy as np
+
+def softmax(x):
+
+    if x.ndim == 2:
+        x = x.T
+        x = x - np.max(x, axis=0)
+        y = np.exp(x) / np.sum(np.exp(x), axis=0)
+        return y.T
+
+    x = x - np.max(x) # 오버플로 대책
+    return np.exp(x) / np.sum(np.exp(x))
